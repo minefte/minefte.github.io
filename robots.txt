@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://minefte.github.io/sitemap.minefte.gz
+Sitemap: https://minefte.github.io/app/sitemap.minefte.gz
+Sitemap: https://minefte.github.io/assets/sitemap.minefte.gz
+Sitemap: https://minefte.github.io/css/sitemap.minefte.gz
+Sitemap: https://minefte.github.io/data/sitemap.minefte.gz
+Sitemap: https://minefte.github.io/includes/sitemap.minefte.gz
+Sitemap: https://minefte.github.io/item/sitemap.minefte.gz
+Sitemap: https://minefte.github.io/src/sitemap.minefte.gz
